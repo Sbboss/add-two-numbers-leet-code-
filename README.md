@@ -1,4 +1,9 @@
 # add-two-numbers-leet-code-
+
+
+Runtime: 4 ms, beats 99.99 % of cpp submissions Memory Usage: 10.1 MB, beats 85.52 % of cpp submissions.
+
+
 question is-
             You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and               each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 
